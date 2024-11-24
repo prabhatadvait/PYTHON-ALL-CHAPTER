@@ -1,0 +1,2 @@
+Welcome to the Python Course: Beginner to Intermediate GitHub repository! This course is designed for individuals looking to build a solid foundation in Python programming and advance their skills to an intermediate level. Whether you're new to coding or have some experience, this repository provides a structured path to mastering essential Python concepts.
+This course covers key Python topics through a series of modules, practical examples, and exercises. Each module is carefully crafted to ensure a smooth learning experience, gradually building up your programming skills.
